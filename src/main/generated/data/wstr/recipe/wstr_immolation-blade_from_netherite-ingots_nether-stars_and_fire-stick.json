@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": "wstr:fire_stick",
+    "N": "minecraft:netherite_ingot",
+    "S": "minecraft:nether_star"
+  },
+  "pattern": [
+    "  S",
+    "NS ",
+    "FN "
+  ],
+  "result": {
+    "id": "wstr:immolation_blade"
+  }
+}

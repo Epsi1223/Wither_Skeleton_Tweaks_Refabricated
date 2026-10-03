@@ -1,0 +1,7 @@
+// 26.1.2	-999999999-01-01T00:00:00	Wither Skeleton Tweaks Refabricated/WSTR Recipes
+c767c0b37e54dc6d263ceef9b7aa4bc915e4517e data/wstr/advancement/recipes/combat/wstr_immolation-blade_from_netherite-ingots_nether-stars_and_fire-stick.json
+f996d5404a8bb7ae4b6bcf5da24f14eff591c20d data/wstr/advancement/recipes/misc/wstr_fire-stick_from_blaze-rods_netherite-scrap_and_stick.json
+536bc561debd905309fb630d7a5ad7293a773b15 data/wstr/advancement/recipes/misc/wstr_wither-skeleton-skull_from_wither-skull-fragments.json
+bdda58b034fcd5264e4a98b37f88d468d929cad0 data/wstr/recipe/wstr_fire-stick_from_blaze-rods_netherite-scrap_and_stick.json
+d7ef050941d37a6f7f6429c44b576502bf24dd33 data/wstr/recipe/wstr_immolation-blade_from_netherite-ingots_nether-stars_and_fire-stick.json
+71b5d18a955485a5567b0ec4683afc157d1e18e2 data/wstr/recipe/wstr_wither-skeleton-skull_from_wither-skull-fragments.json

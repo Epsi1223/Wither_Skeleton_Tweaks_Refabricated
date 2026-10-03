@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": "minecraft:netherite_scrap",
+    "R": "minecraft:blaze_rod",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "RNR",
+    "NSN",
+    "RNR"
+  ],
+  "result": {
+    "id": "wstr:fire_stick"
+  }
+}
