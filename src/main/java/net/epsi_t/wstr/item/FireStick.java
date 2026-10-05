@@ -12,6 +12,6 @@ public class FireStick extends Item {
 
     @Override
     public void hurtEnemy(ItemStack stack, LivingEntity target, LivingEntity attacker) {
-        target.igniteForSeconds(WSTRConfig.get().fireStickIgnitionTime); //By default, it's 1.5 second
+        target.igniteForSeconds(WSTRConfig.get().fireStickIgnitionTime); //By default, it's 1.5 seconds
     }
 }
