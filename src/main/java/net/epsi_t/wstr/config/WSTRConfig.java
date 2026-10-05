@@ -14,7 +14,7 @@ public class WSTRConfig {
     public int skeletonTransformationTime = 100; //In ticks (20 ticks = 1 second; 100 ticks = 5 seconds)
     public boolean skeletonTransformation = true;
     public float fireStickIgnitionTime = 1.5f;
-    public float immolationBladeIgnitionTime = 5f;
+    public float immolationBladeIgnitionTime = 6f;
 
     private static final Gson GSON = new GsonBuilder().setPrettyPrinting().create();
     private static final Path PATH = FabricLoader.getInstance()

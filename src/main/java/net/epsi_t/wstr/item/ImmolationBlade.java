@@ -14,7 +14,7 @@ public class ImmolationBlade extends Item {
     }
     @Override
     public void hurtEnemy(ItemStack stack, LivingEntity target, LivingEntity attacker) {
-        target.igniteForSeconds(WSTRConfig.get().immolationBladeIgnitionTime); //By default, it's 5 seconds
+        target.igniteForSeconds(WSTRConfig.get().immolationBladeIgnitionTime); //By default, it's 6 seconds
         if (target instanceof AbstractSkeleton && target.level() instanceof ServerLevel level) {
             if (!target.isDeadOrDying()) {
                 target.setHealth(1);

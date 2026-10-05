@@ -8,8 +8,8 @@
 		"Epsi_T"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/wither-skeleton-tweaks-refabricated",
+		"sources": "https://github.com/Epsi1223/Wither_Skeleton_Tweaks_Refabricated"
 	},
 	"license": "MIT",
 	"icon": "assets/wstr/icon.png",
@@ -27,7 +27,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.19.5",
-		"minecraft": "~26.1.2",
+		"minecraft": ">=26.1 <=26.1.2",
 		"java": ">=25",
 		"fabric-api": "*"
 	}
